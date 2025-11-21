@@ -3,7 +3,7 @@
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-900
 
 <img width="407" height="302" alt="image" src="https://github.com/user-attachments/assets/470f48ed-4b21-4fa1-a341-78f612be743e" />
-
+<img width="658" height="487" alt="image" src="https://github.com/user-attachments/assets/58884eae-9d20-48ad-bb69-6f725dcab573" />
 <img width="457" height="215" alt="image" src="https://github.com/user-attachments/assets/e2acbbeb-d2b7-461f-a169-a74606118adc" />
 <img width="509" height="209" alt="image" src="https://github.com/user-attachments/assets/4f0a7a3d-e16c-4b5e-be4b-0511791729fa" />
 
