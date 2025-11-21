@@ -8,6 +8,8 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 <img width="457" height="215" alt="image" src="https://github.com/user-attachments/assets/e2acbbeb-d2b7-461f-a169-a74606118adc" />
 <img width="509" height="209" alt="image" src="https://github.com/user-attachments/assets/4f0a7a3d-e16c-4b5e-be4b-0511791729fa" />
 <img width="831" height="482" alt="image" src="https://github.com/user-attachments/assets/bec495b7-322c-4023-abbd-490da4541f3a" />
+<img width="631" height="456" alt="image" src="https://github.com/user-attachments/assets/5aa5b9db-b2a1-4175-be1c-a1193c6aa2ec" />
+
 
 
 ```
