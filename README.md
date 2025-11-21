@@ -1,8 +1,11 @@
 # Azure-900
 
-<img width="457" height="215" alt="image" src="https://github.com/user-attachments/assets/e2acbbeb-d2b7-461f-a169-a74606118adc" />
-
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-900
+
+
+<img width="457" height="215" alt="image" src="https://github.com/user-attachments/assets/e2acbbeb-d2b7-461f-a169-a74606118adc" />
+<img width="509" height="209" alt="image" src="https://github.com/user-attachments/assets/4f0a7a3d-e16c-4b5e-be4b-0511791729fa" />
+
 
 ```
 Machine Learning allows you to use data to forecast the future without writing a program.
