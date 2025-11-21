@@ -7,6 +7,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 <img width="767" height="403" alt="image" src="https://github.com/user-attachments/assets/a8c164ac-0e46-4858-ad55-a5dab31e41b3" />
 <img width="457" height="215" alt="image" src="https://github.com/user-attachments/assets/e2acbbeb-d2b7-461f-a169-a74606118adc" />
 <img width="509" height="209" alt="image" src="https://github.com/user-attachments/assets/4f0a7a3d-e16c-4b5e-be4b-0511791729fa" />
+<img width="831" height="482" alt="image" src="https://github.com/user-attachments/assets/bec495b7-322c-4023-abbd-490da4541f3a" />
 
 
 ```
@@ -44,6 +45,11 @@ Deep Learning
 --------------
 Its subtype of machine learning and it uses deep neural networks to handle complex tasks like images, speech, and text.
 
+DataSet Features and Labels
+-------------------------
+Features are the input Variable
+Label is the thing we are predicting
+  
 
 
 
