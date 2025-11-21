@@ -41,7 +41,7 @@ Data compression
 
 Deep Learning
 --------------
-machine learning using deep neural networks to handle complex tasks like images, speech, and text.
+Its subtype of machine learning and it uses deep neural networks to handle complex tasks like images, speech, and text.
 
 
 
