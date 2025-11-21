@@ -1,4 +1,7 @@
 # Azure-900
+
+<img width="457" height="215" alt="image" src="https://github.com/user-attachments/assets/e2acbbeb-d2b7-461f-a169-a74606118adc" />
+
 ```
 Machine Learning allows you to use data to forecast the future without writing a program.
 
