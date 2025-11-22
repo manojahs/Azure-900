@@ -59,6 +59,8 @@ Label is the thing we are predicting
       Drag the dataset into the designer Canvas
       Visualize the data
       Exclude the column that are not going to be useful for training
+      Clean rows with missing data from Training
+      Normalize the data to make more useful through transformation
 
 
 
