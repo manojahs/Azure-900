@@ -53,7 +53,12 @@ Features are the input Variable
 Label is the thing we are predicting
   
 
-
+1)Azure Auto ML
+2)Azure ML Designer
+      no code approach to model design
+      Drag the dataset into the designer Canvas
+      Visualize the data
+      Exclude the column that are not going to be useful for training
 
 
 
