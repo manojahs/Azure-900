@@ -107,6 +107,11 @@ Common Scenario of Use cases
    - Voice Synthesis
    - Sound Effect
 
+4) Video Generation
+   - Deep Fakes
+   - Animation
+   - Improving the quality of video footage
+
 So Why Do Both DL and Generative AI Produce Images?
 ✔ Deep Learning = the technology
 
