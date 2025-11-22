@@ -112,6 +112,14 @@ Common Scenario of Use cases
    - Animation
    - Improving the quality of video footage
 
+Responsible Generative AI
+-----------------------------
+There are clearly dangers of Generative AI:
+ - Ability to create fake news
+ - fake voice
+ - illegal activities
+ 
+
 So Why Do Both DL and Generative AI Produce Images?
 ✔ Deep Learning = the technology
 
@@ -128,6 +136,10 @@ You can think of it like this:
 DL = Engine
 Generative AI = Car that uses the engine to create something new
 Without Deep Learning, Generative AI cannot create images.
+
+Natural Lanaguage Generation (NLG)
+-----------------------------
+
 
 
 
