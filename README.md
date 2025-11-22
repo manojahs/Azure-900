@@ -139,7 +139,9 @@ Without Deep Learning, Generative AI cannot create images.
 
 Natural Lanaguage Generation (NLG)
 -----------------------------
+NLG is subfield of AI and It focused on creating text and it mimics the human language
 
+It enables AI models to generate contextually appropriate responses based on input data/prompts  
 
 
 
