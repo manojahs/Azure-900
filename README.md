@@ -141,9 +141,23 @@ Natural Lanaguage Generation (NLG)
 -----------------------------
 NLG is subfield of AI and It focused on creating text and it mimics the human language
 
-It enables AI models to generate contextually appropriate responses based on input data/prompts  
+It enables AI models to generate contextually appropriate responses based on input data/prompts
 
+Azure openAI Service
+---------------
+Azure OpenAI provides access to models like GPT-4, GPT-4o, GPT-3.5, etc., which are primarily designed for:
+Generating natural language (text, answers, summaries)
+Understanding and producing human-like responses
+Conversational AI
+Content creation
 
+Capabilities of azure openAI for NLG
+- Content Generation
+- Text summarization
+- Conversational Agents
+- Code Generation
+- Translation
+- Creative Writing
 
 
 
