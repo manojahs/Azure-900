@@ -84,7 +84,12 @@ NLP workload scenario
 - Speech recognition and Synthesis
 - Translation 
 
+Azure AI speeach service
+Azure AI Translator service
 
+Generative AI Solutions
+------------------------------
+Generative AI is a type of artificial intelligence that can create new content — such as images, text, videos, code, music, and more — by learning patterns from existing data.
 
 
 
