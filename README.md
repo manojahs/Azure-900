@@ -62,6 +62,22 @@ Label is the thing we are predicting
       Exclude the column that are not going to be useful for training
       Clean rows with missing data from Training
       Normalize the data to make more useful through transformation
+3)Azure Vision Workloads
+    - Azure AI vision/ Azure AI Services(Cognitive Services)
+    - It includes many other services in one umbrella.
+
+All Azure services require a key and an Endpoint.
+
+Azure AI custom Vision
+-----------------------
+This custom vision services seperates out Traning and Prediction into 2 Resources 
+
+
+
+
+
+
+
 
 
 
