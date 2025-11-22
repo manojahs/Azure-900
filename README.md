@@ -90,8 +90,29 @@ Azure AI Translator service
 Generative AI Solutions
 ------------------------------
 Generative AI is a type of artificial intelligence that can create new content — such as images, text, videos, code, music, and more — by learning patterns from existing data.
+Ex: Chatgpt
 
+Common Scenario of Use cases
+1) Image Generation
+   - Art Creation
+   - Face Generation
 
+So Why Do Both DL and Generative AI Produce Images?
+✔ Deep Learning = the technology
+
+(neural networks)
+✔ Generative AI = the purpose
+
+(create new content)
+
+Generative AI uses Deep Learning models
+to generate images.
+
+You can think of it like this:
+
+DL = Engine
+Generative AI = Car that uses the engine to create something new
+Without Deep Learning, Generative AI cannot create images.
 
 
 
