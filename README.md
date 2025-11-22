@@ -72,7 +72,17 @@ Azure AI custom Vision
 -----------------------
 This custom vision services seperates out Traning and Prediction into 2 Resources 
 
+Natural language Processing
+----------------------------
+NLP workload scenario
 
+- Understand written and spoken language
+- Key phrase extranction
+- Entity Recognition
+- Sentiment Analysis
+- Language Modeling
+- Speech recognition and Synthesis
+- Translation 
 
 
 
