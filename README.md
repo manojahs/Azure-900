@@ -97,6 +97,16 @@ Common Scenario of Use cases
    - Art Creation
    - Face Generation
 
+2) Text Generation
+   - Chatbot agents
+   - Content creation
+   - Code Generation
+
+3) Music/Audio Generation
+   - Music comp
+   - Voice Synthesis
+   - Sound Effect
+
 So Why Do Both DL and Generative AI Produce Images?
 ✔ Deep Learning = the technology
 
