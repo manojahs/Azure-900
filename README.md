@@ -159,6 +159,12 @@ Capabilities of azure openAI for NLG
 - Translation
 - Creative Writing
 
+Code Generation
+-------------
+Ex: Codex it helps to generate the code across multiple programming language.
+
+
+
 
 
 ```
