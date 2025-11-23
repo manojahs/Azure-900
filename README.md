@@ -2,6 +2,7 @@
 
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-900
 
+<img width="835" height="443" alt="image" src="https://github.com/user-attachments/assets/6d8717d5-0604-47a4-b5e4-2b9cc843edc2" />
 <img width="407" height="302" alt="image" src="https://github.com/user-attachments/assets/470f48ed-4b21-4fa1-a341-78f612be743e" />
 <img width="658" height="487" alt="image" src="https://github.com/user-attachments/assets/58884eae-9d20-48ad-bb69-6f725dcab573" />
 <img width="767" height="403" alt="image" src="https://github.com/user-attachments/assets/a8c164ac-0e46-4858-ad55-a5dab31e41b3" />
@@ -10,6 +11,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 <img width="831" height="482" alt="image" src="https://github.com/user-attachments/assets/bec495b7-322c-4023-abbd-490da4541f3a" />
 <img width="631" height="456" alt="image" src="https://github.com/user-attachments/assets/5aa5b9db-b2a1-4175-be1c-a1193c6aa2ec" />
 <img width="511" height="509" alt="image" src="https://github.com/user-attachments/assets/0441eeab-cdf4-45e4-808f-1e53d5e1f0ad" />
+
 
 
 
