@@ -29,13 +29,47 @@ Once a model has been deployed , it can recognise patterns in the data it has ne
 
 Machine Learning Types
 --------------------------
-1)Regression- its type of supervised learning
+1) Regression- its type of supervised learning
 The model learns from labeled data (input + correct output).
+If the output you want is a number, the problem is called Regression.
+
 Examples:
 
-Email spam detection (spam / not spam)
-Predicting house prices
-Image classification (cat / dog)
+Predicting house price (₹50,00,000)
+Predicting temperature (32.5°C)
+Predicting salary of an employee
+Predicting marks out of 100
+Predicting sales for next month
+
+🧠 Simple rule:
+
+👉 If the answer is a number that can go up/down continuously → Regression.
+
+🟥 2. Classification
+
+➤ Predicting a category / class
+
+If the output you want is a label (category), the problem is Classification.
+
+📌 Examples:
+
+Email → Spam / Not Spam
+Tumor → Benign / Malignant
+Weather → Rainy / Sunny / Cloudy
+Image → Cat / Dog
+Student → Pass / Fail
+
+🧠 Simple rule:
+
+👉 If the answer is a fixed category → Classification.
+
+| Feature    | Regression                      | Classification                          |
+| ---------- | ------------------------------- | --------------------------------------- |
+| Output     | Number (continuous value)       | Category / Label                        |
+| Examples   | Price, temperature, marks       | Spam/Not spam, Cat/Dog                  |
+| Algorithms | Linear Regression, Lasso, Ridge | Logistic Regression, Decision Tree, SVM |
+| Evaluation | MSE, RMSE                       | Accuracy, Precision, Recall             |
+
 
 2)Clustering -Unsupervised Learning
 The model learns patterns from unlabeled data (no correct answers).
