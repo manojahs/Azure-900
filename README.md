@@ -16,6 +16,14 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 
 
 ```
+Artificial Intelligence workloads
+--------------------------------
+1) Machine Learning
+2) Anamoly Detection
+3) Computer vision
+4) Natural Language Processing
+5) Conversational AI
+
 Machine Learning allows you to use data to forecast the future without writing a program.
 
 Machine Learning (ML) is a field of artificial intelligence (AI) that allows computers to learn patterns from data and make decisions or predictions without being explicitly programmed.
