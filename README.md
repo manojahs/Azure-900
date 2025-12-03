@@ -207,9 +207,7 @@ Code Generation
 -------------
 Ex: Codex it helps to generate the code across multiple programming language.
 
-Azure AI Foundry
------------------
-A unified workspace to create Gen AI apps using Azure OpenAI, LLMs, prompt engineering, model fine-tuning, RAG, vector databases, and AI agents.
+
 
 
 
